@@ -19,4 +19,4 @@ Ejecutar el archivo:
 python3 inventario_gui.py
 
 ## Capturas
-Agregar imágenes de la aplicación en funcionamiento.
+Agregué las imágenes de la aplicación en funcionamiento en la carpeta "Screenshoots".
